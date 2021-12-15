@@ -1,3 +1,4 @@
 def hello:
-  print("Hello Akalya")
+  print("Hello Akal")
+  print("Hope you're doing good")
 hello()
