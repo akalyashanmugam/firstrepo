@@ -1,2 +1,2 @@
 # firstrepo
-Some changes has been made to the hello function
+Some more code has been added to the hello function
